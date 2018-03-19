@@ -26,3 +26,22 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+container {
+  margin-left: 40px;
+}
+
+.value {
+  font-size: 1.2rem;
+}
+
+.label {
+  font-weight: bold;
+  color: #474747;
+  position: absolute;
+  left: 200px;
+}
+
+.message .value {
+  font-style: italic;
+}
