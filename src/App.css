@@ -45,3 +45,8 @@
 .message .value {
   font-style: italic;
 }
+
+.note {
+  padding: 5px;
+  margin: 5px;
+}
